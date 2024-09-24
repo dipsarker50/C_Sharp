@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Adminpanel\AdminControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\AdminControlDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\AdminControlPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\Admin_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\InsertAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminpanel\InsertDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Signup\SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Signup\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\AllAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\AppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\Card.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patients\DoctorCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patients\MakeAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\Patients Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients\Patient_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
